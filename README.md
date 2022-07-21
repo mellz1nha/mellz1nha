@@ -37,7 +37,6 @@ Here are some ideas to get you started:
  
  ![image](https://github.com/mellz1nha/mellz1nha/blob/output/github-contribution-grid-snake.svg)
  
-</div>
     
     <div>
  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/980430218823102486/999538850047209612/picasion.com_0c8f727b294d329deab686ac594e5079.gif">
