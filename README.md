@@ -1,4 +1,5 @@
-<h2> Hiiii, sou Mell Romão </h2>
+<h2> Hiiii, welcome.. 
+ I'm Mell Romão </h2>
 
 - 🔭 I'm future Front-end Engineer 🚀 
 
