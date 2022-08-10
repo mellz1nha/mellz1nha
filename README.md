@@ -1,7 +1,7 @@
 <h2> Hiiii, welcome.. 
  I'm Mell Romão </h2>
 
-- 🔭 I'm future Front-end Engineer 🚀 
+- 🌳 Front-end Engineer 🚀 
 
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mellz1nha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
