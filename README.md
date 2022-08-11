@@ -1,7 +1,5 @@
-<h2> Hiiii, welcome.. 
- I'm Mell Romão </h2>
-
-- 🌳 Front-end Engineer 🚀 
+<h2><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C8A2C8&height=180&section=header&text=Mell&MediumSpace;Romão&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> </h12>
+- 🌳 Front-end Engineer 
 
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mellz1nha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
