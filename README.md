@@ -15,15 +15,4 @@
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="vini_figma">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"     src="https://cdn.discordapp.com/attachments/980430218823102486/999538850047209612/picasion.com_0c8f727b294d329deab686ac594e5079.gif">
 </div>
-     
-##
- 
-<div> 
-  <a href="https://www.youtube.com/mellromao" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/mellromao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/mellromao_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato.mellromao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-![image](https://github.com/mellz1nha/mellz1nha/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+   
